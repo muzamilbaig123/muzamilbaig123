@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&size=52&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Muzamil+Baig;I'm+a+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://github.com/muzamilbaig123?color=blue&size=52&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Muzamil+Baig;I'm+a+Software+Engineer)](https://git.io/typing-svg)
  
 <br/>
 👋 Hi, I'm Muzamil Baig!
